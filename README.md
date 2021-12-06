@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @thiagoneye
+- 🎂 I'm 23 years old
 - 👀 I’m interested in science and data engineering
 - 🌱 I’m currently a degree in mechanical engineering
 - 📫 How to reach me thiagoney@outlook.com
