@@ -6,11 +6,6 @@
 - I’m interested in data science and engineering
 - How to reach me thiagoney@outlook.com
 
-<!---
-thiagoneye/thiagoneye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 # GitHub Status
 
 <p align= "center">
@@ -18,6 +13,11 @@ You can click the Preview link to take a look at your changes.
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoneye&theme=react&layout=compact" />
 </p>
 
---
+---
 
 Credits: [Akash chowrasia](https://github.com/Akash-chowrasia) and [Brant Lauro](https://github.com/BrantLauro) 
+
+<!---
+thiagoneye/thiagoneye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
