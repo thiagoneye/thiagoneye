@@ -13,5 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 # GitHub Status
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thiagoneye&show_icons=true&locale=en&layout=compact" alt="thiagoneye" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thiagoneye&show_icons=true" alt="thiagoneye" /></p>
+<p align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=thiagoneye&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoneye&theme=react&layout=compact" />
+</p>
