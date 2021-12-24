@@ -7,6 +7,15 @@
 - I’m interested in data science and engineering
 - How to reach me thiagoney@outlook.com
 
+# Languages and Tools
+
+- Python
+- Jupyter Notebook
+- MATLAB
+- Go
+- SQL (SQLite, MySQL and PostgreSQL)
+- Microsoft Power BI
+
 # GitHub Status
 
 <p align= "center">
