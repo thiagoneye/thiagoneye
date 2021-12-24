@@ -15,6 +15,8 @@
 - Go
 - SQL (SQLite, MySQL and PostgreSQL)
 - Microsoft Power BI
+- Microsoft Excel
+- LaTeX
 
 # GitHub Status
 
