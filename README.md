@@ -11,7 +11,7 @@
 
 - Python (Jupyter Notebook, Spyder IDE and PyCharm)
 - MATLAB
-- Go
+- Go (PyCharm)
 - SQL (SQLite, MySQL and PostgreSQL)
 - LaTeX
 - Microsoft Power BI
