@@ -9,14 +9,13 @@
 
 # Languages and Tools
 
-- Python
-- Jupyter Notebook
+- Python (Jupyter Notebook, Spyder IDE and PyCharm)
 - MATLAB
 - Go
 - SQL (SQLite, MySQL and PostgreSQL)
+- LaTeX
 - Microsoft Power BI
 - Microsoft Excel
-- LaTeX
 
 # GitHub Status
 
