@@ -8,11 +8,13 @@
 
 # Languages and Tools
 
-- Python (Jupyter Notebook, Spyder IDE and PyCharm)
+- Python (Numpy, Pandas, Matplotlib, Seaborn, Math, SymPy, SciPy and Scikit-Learn)
 - MATLAB
-- Go (PyCharm)
+- Go
+- IDEs (Atom, Spyder and Jupyter Notebook)
 - SQL (SQLite, MySQL and PostgreSQL)
-- LaTeX
+- Git (GitHub)
+- LaTeX (Overleaf)
 - Microsoft Power BI
 - Microsoft Excel
 
