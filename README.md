@@ -1,6 +1,7 @@
 # Welcome
 
 - Hi, I’m @thiagoneye
+- I'm from Brazil
 - I'm 23 years old
 - I’m currently a mechanical engineering student
 - I’m interested in data science and engineering
