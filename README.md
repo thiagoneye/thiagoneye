@@ -11,7 +11,7 @@
 - Python (Numpy, Pandas, Matplotlib, Seaborn, Math, SymPy, SciPy and Scikit-Learn)
 - MATLAB
 - Go (Introductory expertise)
-- Environment (Atom, Spyder and Jupyter Notebook)
+- Environments (Atom, Spyder and Jupyter Notebook)
 - SQL (SQLite, MySQL and PostgreSQL)
 - Git (GitHub)
 - LaTeX (Overleaf and TeXstudio)
