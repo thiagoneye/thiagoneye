@@ -10,7 +10,7 @@
 
 - Python (Numpy, Pandas, Matplotlib, Seaborn, Math, SymPy, SciPy and Scikit-Learn)
 - MATLAB
-- Go
+- Go (Introductory expertise)
 - IDEs (Atom, Spyder and Jupyter Notebook)
 - SQL (SQLite, MySQL and PostgreSQL)
 - Git (GitHub)
