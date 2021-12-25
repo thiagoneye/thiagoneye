@@ -14,7 +14,7 @@
 - IDEs (Atom, Spyder and Jupyter Notebook)
 - SQL (SQLite, MySQL and PostgreSQL)
 - Git (GitHub)
-- LaTeX (Overleaf)
+- LaTeX (Overleaf and TeXstudio)
 - Microsoft Power BI
 - Microsoft Excel
 
