@@ -6,7 +6,7 @@
 - I’m interested in data science and engineering
 - How to reach me thiagoney@outlook.com
 
-# Languages and Tools
+## Languages and Tools
 
 - Python (Numpy, Pandas, Matplotlib, Seaborn, Math, SymPy, SciPy and Scikit-Learn)
 - MATLAB
@@ -18,7 +18,7 @@
 - Microsoft Power BI
 - Microsoft Excel
 
-# GitHub Status
+## GitHub Status
 
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=thiagoneye&theme=react&show_icons=true&include_all_commits=true" />
