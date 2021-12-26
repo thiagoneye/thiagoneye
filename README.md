@@ -8,15 +8,15 @@
 
 # Languages and Tools
 
-- **Python**: Numpy, Pandas, Matplotlib, Seaborn, Math, SymPy, SciPy and Scikit-Learn
-- **MATLAB**
-- **Go** (Introductory expertise)
-- **Environments**: Atom, Spyder and Jupyter Notebook
-- **SQL**: SQLite, MySQL and PostgreSQL
-- **Git**: GitHub
-- **LaTeX**: Overleaf and TeXstudio
-- **Microsoft Power BI**
-- **Microsoft Excel**
+- Python (Numpy, Pandas, Matplotlib, Seaborn, Math, SymPy, SciPy and Scikit-Learn)
+- MATLAB
+- Go (Introductory expertise)
+- Environments (Atom, Spyder and Jupyter Notebook)
+- SQL (SQLite, MySQL and PostgreSQL)
+- Git (GitHub)
+- LaTeX (Overleaf and TeXstudio)
+- Microsoft Power BI
+- Microsoft Excel
 
 # GitHub Status
 
