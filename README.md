@@ -28,7 +28,7 @@
 ## Current Studies
 
 - [Database (SQL and NoSQL)](https://github.com/thiagoneye/course-database)
-- [Python Programming](https://github.com/thiagoneye/course-python)
+- Programming ([Python](https://github.com/thiagoneye/course-python) and [Go](https://github.com/thiagoneye/book-golang))
 - Business Intelligence ([MS Power BI](https://github.com/thiagoneye/course-mpowerbi), Tableau and Google Data Studio)
 
 ---
