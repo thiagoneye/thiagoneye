@@ -25,6 +25,12 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoneye&theme=react&layout=compact" />
 </p>
 
+## Current Studies
+
+- [Database (SQL and NoSQL)](https://github.com/thiagoneye/course-database)
+- [Python Programming](https://github.com/thiagoneye/course-python)
+- [Business Intelligence (MS Power BI, )](https://github.com/thiagoneye/course-mpowerbi)
+
 ---
 
 Credits: [Akash chowrasia](https://github.com/Akash-chowrasia) and [Brant Lauro](https://github.com/BrantLauro) 
