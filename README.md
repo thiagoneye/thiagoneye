@@ -25,12 +25,6 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoneye&theme=react&layout=compact" />
 </p>
 
-## Current Studies
-
-- [Database (SQL and NoSQL)](https://github.com/thiagoneye/course-database)
-- Programming ([Python](https://github.com/thiagoneye/course-python) and [Go](https://github.com/thiagoneye/book-golang))
-- Business Intelligence ([MS Power BI](https://github.com/thiagoneye/course-mpowerbi), Tableau and Google Data Studio)
-
 ---
 
 Credits: [Akash chowrasia](https://github.com/Akash-chowrasia) and [Brant Lauro](https://github.com/BrantLauro) 
