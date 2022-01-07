@@ -29,7 +29,7 @@
 
 - [Database (SQL and NoSQL)](https://github.com/thiagoneye/course-database)
 - [Python Programming](https://github.com/thiagoneye/course-python)
-- [Business Intelligence (MS Power BI, )](https://github.com/thiagoneye/course-mpowerbi)
+- [Business Intelligence (MS Power BI, Tableau and Google Data Studio)](https://github.com/thiagoneye/course-mpowerbi)
 
 ---
 
