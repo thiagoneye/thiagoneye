@@ -27,7 +27,9 @@
 
 ---
 
-Credits: [Akash chowrasia](https://github.com/Akash-chowrasia) and [Brant Lauro](https://github.com/BrantLauro) 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thiagoneye" alt="thiagoneye" /> </p>
+
+Credits: [Akash chowrasia](https://github.com/Akash-chowrasia), [Brant Lauro](https://github.com/BrantLauro) and [Massao Mitsunaga](https://github.com/MassaoMitsunaga).
 
 <!---
 thiagoneye/thiagoneye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
