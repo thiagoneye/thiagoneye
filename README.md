@@ -27,7 +27,7 @@
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thiagoneye" alt="thiagoneye" /> </p>
+[comment]: <> (<p align="left"> <img src="https://komarev.com/ghpvc/?username=thiagoneye" alt="thiagoneye" /> </p>)
 
 Credits: [Akash chowrasia](https://github.com/Akash-chowrasia), [Brant Lauro](https://github.com/BrantLauro) and [Massao Mitsunaga](https://github.com/MassaoMitsunaga).
 
