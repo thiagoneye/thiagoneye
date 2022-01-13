@@ -17,6 +17,7 @@
 - LaTeX (Overleaf and TeXstudio)
 - Microsoft Power BI
 - Microsoft Excel
+- Microsoft Power Apps
 
 ## GitHub Status
 
