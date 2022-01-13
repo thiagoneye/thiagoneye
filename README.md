@@ -14,10 +14,10 @@
 - Environments (Atom, Spyder and Jupyter Notebook)
 - SQL (SQLite and MySQL)
 - Git (GitHub)
-- LaTeX (Overleaf and TeXstudio)
 - Microsoft Power BI
 - Microsoft Excel
 - Microsoft Power Apps
+- LaTeX (Overleaf and TeXstudio)
 
 ## GitHub Status
 
