@@ -34,11 +34,6 @@ Data Engineering:
 - Database Project
 - Data Integration (ETL)
 
-Management:
-
-- Operational Excellence (World Class Manufacturing)
-- Problem analysis and solution tools (PDCA, 5G, 5S, Ishikawa Diagram, 5 Whys, FMEA, GUT Matrix, Pareto Diagram, SMART Criteria, Gantt Chart, 5W2H, Kanban and Brainstorm)
-
 ## GitHub Status
 
 <p align= "center">
