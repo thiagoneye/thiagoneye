@@ -23,7 +23,6 @@
 
 Data Science:
 
-- Programming
 - Data Visualization
 - Storytelling
 - Statistics
