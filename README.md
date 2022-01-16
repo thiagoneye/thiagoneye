@@ -19,13 +19,6 @@
 - Microsoft Power Apps
 - LaTeX (Overleaf and TeXstudio)
 
-## GitHub Status
-
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=thiagoneye&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoneye&theme=react&layout=compact" />
-</p>
-
 ## Knowledge
 
 Data Science:
@@ -51,6 +44,13 @@ Engineering:
 - Mechanical engineering (3D Modeling and Machine Design)
 - Petroleum engineering (Petrophysics)
 - Aeronautical engineering (Flight Dynamics)
+
+## GitHub Status
+
+<p align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=thiagoneye&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoneye&theme=react&layout=compact" />
+</p>
 
 ---
 
