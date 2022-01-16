@@ -28,7 +28,7 @@ Data Science:
 - Storytelling
 - Statistics
 - Numerical Analysis
-- Machine Learning (Regression, Classification and Clustering Models)
+- Machine Learning
 
 Data Engineering:
 
