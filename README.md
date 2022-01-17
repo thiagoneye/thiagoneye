@@ -12,7 +12,7 @@
 - MATLAB
 - Go (Introductory Expertise)
 - Environments (Atom, Spyder and Jupyter Notebook)
-- SQL (SQLite and MySQL)
+- SQL (SQLite, MySQL and PostgreSQL)
 - Git (GitHub)
 - Microsoft Power BI
 - Microsoft Excel
