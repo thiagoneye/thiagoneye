@@ -19,21 +19,6 @@
 - Microsoft Power Apps
 - LaTeX (Overleaf and TeXstudio)
 
-## Knowledge
-
-Data Science:
-
-- Data Visualization
-- Storytelling
-- Statistics
-- Numerical Analysis
-- Machine Learning
-
-Data Engineering:
-
-- Database Project
-- Data Integration (ETL)
-
 ## GitHub Status
 
 <p align= "center">
