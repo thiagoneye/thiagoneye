@@ -16,8 +16,9 @@ class thiagoneye:
         self.skills = {
             'Languages': ['Python', 'MATLAB', 'Go'],
             'Database': ['SQL', 'MySQL', 'PostgreSQL', 'SQLite'],
-            'Dataviz': ['Microsoft Power BI'],
-            'Tools': ['Git', 'GitHub', 'Microsoft Office', 'Microsoft Power Apps', 'LaTeX']
+            'DataViz': ['Microsoft Power BI'],
+            'Tools': ['Git', 'GitHub'],
+            'Others': ['Microsoft Office', 'Microsoft Power Apps', 'LaTeX']
         }
 
     def learning(self, category: str, new: list):
