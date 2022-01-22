@@ -1,23 +1,40 @@
 # Welcome
 
-- Hi, I’m @thiagoneye
-- I'm 23 years old
-- I’m currently a mechanical engineering student
-- I’m interested in data science and engineering
-- How to reach me thiagoney@outlook.com
+```python
+# Class Declaration
 
-## Languages and Tools
+class thiagoneye:
+  
+    def __init__(self):
+        """
+        Informations about @thiagoneye.
+        """
+        self.name = 'Thiago Rodrigues'
+        self.age = 23
+        self.formation = 'Mechanical Engineering'
+        self.interests = ['Data Science', 'Data Engineering']
+        self.skills = {
+            'Languages': ['Python', 'MATLAB', 'Go'],
+            'Database': ['SQL', 'MySQL', 'PostgreSQL', 'SQLite'],
+            'Dataviz': ['Microsoft Power BI'],
+            'Tools': ['Git', 'GitHub', 'Microsoft Office', 'Microsoft Power Apps', 'LaTeX']
+        }
 
-- Python (Numpy, Pandas, Matplotlib, Seaborn, Math, SymPy, SciPy and Scikit-Learn)
-- MATLAB
-- Go (Introductory Expertise)
-- Environments (Atom, Spyder and Jupyter Notebook)
-- SQL (MySQL, PostgreSQL and SQLite)
-- Git (GitHub)
-- Microsoft Power BI
-- Microsoft Excel
-- Microsoft Power Apps
-- LaTeX (Overleaf and TeXstudio)
+    def learning(self, category: str, new: list):
+        """
+        Add a new skill.
+        """
+        if category in self.skills.keys():
+            self.skills[category] += new
+        else:
+            self.skills[category] = new
+
+# Main
+
+me = thiagoneye()
+me.learning('Database', ['NoSQL', 'MongoDB'])
+me.learning('Software Engineering', ['OOP'])
+```
 
 ## GitHub Status
 
@@ -26,6 +43,10 @@
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=thiagoneye&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoneye&theme=react&hide_border=true&layout=compact" />
 </p>
+
+---
+
+Credits: [Rafnix Guzmán](https://github.com/rafnixg/)
 
 <!---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thiagoneye" alt="thiagoneye" /> </p>
