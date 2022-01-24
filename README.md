@@ -33,8 +33,8 @@ class thiagoneye:
 # Main
 
 me = thiagoneye()
-me.learning('Database', ['NoSQL', 'MongoDB'])
 me.learning('Software Engineering', ['OOP'])
+me.learning('Database', ['NoSQL', 'MongoDB'])
 ```
 
 ## GitHub Status
