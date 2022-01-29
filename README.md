@@ -14,7 +14,7 @@ class thiagoneye:
         self.formation = 'Mechanical Engineering'
         self.interests = ['Data Science', 'Data Engineering']
         self.skills = {
-            'Languages': ['Python', 'MATLAB', 'Go'],
+            'Languages': ['Python', 'MATLAB'],
             'Database': ['SQL', 'MySQL', 'PostgreSQL', 'SQLite'],
             'DataViz': ['Microsoft Power BI'],
             'Tools': ['Git', 'GitHub'],
@@ -33,6 +33,7 @@ class thiagoneye:
 # Main
 
 me = thiagoneye()
+me.learning('Languages', ['Go'])
 me.learning('Software Engineering', ['OOP'])
 me.learning('Database', ['NoSQL', 'MongoDB'])
 ```
