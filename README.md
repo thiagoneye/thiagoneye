@@ -34,9 +34,9 @@ class thiagoneye:
 # Main
 
 me = thiagoneye()
+me.learning('Database', ['NoSQL', 'MongoDB', 'Redis', 'CouchDB'])
 me.learning('Languages', ['Go'])
 me.learning('Software Engineering', ['OOP'])
-me.learning('Database', ['NoSQL', 'MongoDB', 'Redis', 'CouchDB'])
 ```
 
 ## GitHub Status
