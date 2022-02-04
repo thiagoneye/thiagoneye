@@ -16,7 +16,7 @@ class thiagoneye:
         self.interests = ['Data Science', 'Data Engineering']
         self.skills = {
             'Languages': ['Python', 'MATLAB'],
-            'Database': ['SQL', 'MySQL', 'PostgreSQL', 'SQLite'],
+            'Database': ['SQL', 'MySQL', 'PostgreSQL', 'SQLite', 'NoSQL', 'MongoDB'],
             'DataViz': ['Microsoft Power BI'],
             'Tools': ['Git', 'GitHub'],
             'Others': ['Microsoft Office', 'Microsoft Power Apps', 'LaTeX']
@@ -34,7 +34,7 @@ class thiagoneye:
 # Main
 
 me = thiagoneye()
-me.learning('Database', ['NoSQL', 'MongoDB', 'Redis', 'CouchDB'])
+me.learning('Database', ['Redis', 'CouchDB'])
 me.learning('Languages', ['Go'])
 me.learning('Software Engineering', ['OOP'])
 ```
