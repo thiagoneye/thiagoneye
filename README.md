@@ -34,7 +34,7 @@ class thiagoneye:
 # Main
 
 me = thiagoneye()
-me.learning('Database', ['CouchDB', 'FireBase'])
+me.learning('Database', ['FireBase'])
 me.learning('Languages', ['Go'])
 me.learning('Software Engineering', ['OOP'])
 ```
