@@ -31,7 +31,7 @@ class thiagoneye:
         else:
             self.skills[category] = new
 
-# Main
+# Main 
 
 me = thiagoneye()
 me.learning('Business Intelligence', ['Integration Services', 'Data Warehouse', 'Analysis Services', 'OLAP cubes',
