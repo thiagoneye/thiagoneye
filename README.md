@@ -34,7 +34,7 @@ class thiagoneye:
 # Main 
 
 me = thiagoneye()
-me.learning('Business Intelligence', ['Integration Services', 'Data Warehouse', 'Analysis Services', 'OLAP Cubes',
+me.learning('BI', ['Integration Services', 'Data Warehouse', 'Analysis Services', 'OLAP Cubes',
   'Reporting Services'])
 me.learning('Languages', ['Go'])
 me.learning('Software Engineering', ['OOP'])
