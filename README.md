@@ -3,7 +3,7 @@
 ```python
 # Class Declaration
 
-class Thiagoneye:
+class ThiagoNeyE:
   
     def __init__(self):
         """
