@@ -34,10 +34,8 @@ class ThiagoNeyE:
 # Main 
 
 me = thiagoneye()
-me.learning('BI', ['Integration Services', 'Data Warehouse', 'Analysis Services', 'OLAP Cubes',
-  'Reporting Services'])
+me.learning('Data Engineering', ['Apache Hop', 'Databricks', 'PySpark', 'NiFi', 'Elasticsearch'])
 me.learning('Languages', ['Go'])
-me.learning('Software Engineering', ['OOP'])
 ```
 
 ## GitHub Status
