@@ -35,7 +35,9 @@ class ThiagoNeyE:
 
 me = thiagoneye()
 me.learning('Data Engineering', ['Apache Hop', 'Databricks', 'PySpark', 'NiFi', 'Elasticsearch'])
-me.learning('Languages', ['Go'])
+me.learning('Cloud Computing', ['AWS'])
+me.learning('Languages', ['Go', 'Shell Script'])
+me.learning('DevOps', ['Docker', 'Kubernets'])
 ```
 
 ## GitHub Status
