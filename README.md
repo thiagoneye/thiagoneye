@@ -10,7 +10,7 @@ class ThiagoNeyE:
         Informations about @thiagoneye.
         """
         self.name = 'Thiago Rodrigues'
-        self.age = 23
+        self.age = 24
         self.email = 'thiagoney@outlook.com'
         self.formation = 'Mechanical Engineering'
         self.interests = ['Data Science', 'Data Engineering']
