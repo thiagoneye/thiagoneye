@@ -12,7 +12,7 @@ class ThiagoNeyE:
         self.name = 'Thiago Rodrigues'
         self.age = 24
         self.email = 'thiagoney@outlook.com'
-        self.formation = 'Mechanical Engineering'
+        self.formation = ['Mechanical Engineering', 'Analysis and Systems Development']
         self.interests = ['Data Science', 'Data Engineering']
         self.skills = {
             'Languages': ['Python', 'MATLAB'],
@@ -34,10 +34,7 @@ class ThiagoNeyE:
 # Main 
 
 me = thiagoneye()
-me.learning('Data Engineering', ['Apache Hop', 'Databricks', 'PySpark', 'NiFi', 'Elasticsearch'])
 me.learning('Cloud Computing', ['AWS'])
-me.learning('Languages', ['Go', 'Shell Script'])
-me.learning('DevOps', ['Docker', 'Kubernets'])
 ```
 
 ## GitHub Status
