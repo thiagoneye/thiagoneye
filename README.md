@@ -34,7 +34,7 @@ class ThiagoNeyE:
 # Main 
 
 me = thiagoneye()
-me.learning('Cloud Computing', ['AWS'])
+me.learning('Web Development', ['HTML5', 'CSS3'])
 ```
 
 ## GitHub Status
