@@ -19,6 +19,7 @@ class ThiagoNeyE:
             'Database': ['SQL', 'MySQL', 'PostgreSQL', 'SQLite', 'NoSQL', 'MongoDB', 'Redis'],
             'DataViz': ['Microsoft Power BI'],
             'Tools': ['Git', 'GitHub'],
+            'OS': ['Windows', 'Linux'],
             'Others': ['Microsoft Office', 'Microsoft Power Apps', 'LaTeX']
         }
 
