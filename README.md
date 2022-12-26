@@ -20,7 +20,7 @@ class ThiagoNeyE:
             'DataViz': ['Microsoft Power BI'],
             'Tools': ['Git', 'GitHub'],
             'OS': ['Windows', 'Linux'],
-            'Others': ['Microsoft Office', 'Microsoft Power Apps', 'LaTeX']
+            'Others': ['Microsoft Office', 'Microsoft Power Apps' 'Microsoft Power Automate', 'LaTeX']
         }
 
     def learning(self, category: str, new: list):
