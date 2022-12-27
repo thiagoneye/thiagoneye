@@ -34,10 +34,11 @@ class ThiagoNeyE:
 
 # Main 
 
-me = thiagoneye()
-me.learning('Languages', ['Go'])
-me.learning('Distributed Computing', ['Apache Spark'])
-me.learning('Web Development', ['HTML5', 'CSS3'])
+if __name__ == '__main__':
+    me = thiagoneye()
+    me.learning('Languages', ['Go'])
+    me.learning('Distributed Computing', ['Apache Spark'])
+    me.learning('Web Development', ['HTML5', 'CSS3'])
 ```
 
 ## GitHub Status
