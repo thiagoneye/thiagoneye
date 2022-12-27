@@ -35,6 +35,8 @@ class ThiagoNeyE:
 # Main 
 
 me = thiagoneye()
+me.learning('Languages', ['Go'])
+me.learning('Distributed Computing', ['Apache Spark'])
 me.learning('Web Development', ['HTML5', 'CSS3'])
 ```
 
