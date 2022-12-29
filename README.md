@@ -13,7 +13,7 @@ class ThiagoNeyE:
         self.age = 24
         self.email = 'thiagoney@outlook.com'
         self.formation = ['Mechanical Engineering', 'Analysis and Systems Development']
-        self.interests = ['Data Science', 'Data Engineering']
+        self.interests = ['Data Science', 'Data Engineering', 'Analysis and Design of Algorithms']
         self.skills = {
             'Languages': ['Python', 'MATLAB'],
             'Database': ['SQL', 'MySQL', 'PostgreSQL', 'SQLite', 'NoSQL', 'MongoDB', 'Redis'],
