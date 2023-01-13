@@ -43,9 +43,7 @@ me.learning('Web Development', ['HTML5', 'CSS3'])
 ## GitHub Status
 
 <p align= "center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=thiagoneye&theme=react&show_icons=true&include_all_commits=false&hide_border=true" />
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=thiagoneye&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoneye&theme=react&hide_border=true&layout=compact" />
 </p>
 
 ---
@@ -53,6 +51,11 @@ me.learning('Web Development', ['HTML5', 'CSS3'])
 Credits: [Rafnix Guzmán](https://github.com/rafnixg/)
 
 <!---
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=thiagoneye&theme=react&show_icons=true&include_all_commits=false&hide_border=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoneye&theme=react&hide_border=true&layout=compact" />
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thiagoneye" alt="thiagoneye" /> </p>
 
 thiagoneye/thiagoneye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
