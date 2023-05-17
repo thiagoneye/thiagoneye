@@ -4,11 +4,10 @@
 # Class Declaration
 
 class ThiagoNeyE:
-  
-    def __init__(self):
-        """
-        Informations about @thiagoneye.
-        """
+    """
+    Informations about @thiagoneye.
+    """  
+    def __init__(self) -> None:
         self.name = 'Thiago Rodrigues'
         self.age = 24
         self.email = 'thiagoney@outlook.com'
@@ -16,6 +15,7 @@ class ThiagoNeyE:
         self.interests = ['Data Science', 'Data Engineering', 'Analysis and Design of Algorithms']
         self.skills = {
             'Languages': ['Python', 'MATLAB'],
+            'Software Engineering': ['Object-Orientation'],
             'Database': ['SQL', 'MySQL', 'PostgreSQL', 'SQLite', 'NoSQL', 'MongoDB', 'Redis'],
             'DataViz': ['Microsoft Power BI'],
             'Tools': ['Git', 'GitHub'],
@@ -23,7 +23,7 @@ class ThiagoNeyE:
             'Others': ['Microsoft Office', 'Microsoft Power Apps' 'Microsoft Power Automate', 'LaTeX']
         }
 
-    def learning(self, category: str, new: list):
+    def learning(self, category: str, new: list) -> None:
         """
         Topics in studies.
         """
@@ -32,12 +32,14 @@ class ThiagoNeyE:
         else:
             self.skills[category] = new
 
+
 # Main 
 
-me = thiagoneye()
-me.learning('Languages', ['Go'])
-me.learning('Distributed Computing', ['Apache Spark'])
-me.learning('Web Development', ['HTML5', 'CSS3'])
+if __name__ == '__main__':
+    me = thiagoneye()
+    me.learning('Software Engineering', ['Design Patterns'])
+    me.learning('Cloud Computing', ['Microsoft Azure'])
+    me.learning('Distributed Computing', ['Apache Spark'])
 ```
 
 ## GitHub Status
