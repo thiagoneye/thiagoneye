@@ -15,7 +15,7 @@ class ThiagoNeyE:
         self.interests = ['Data Science', 'Data Engineering', 'Analysis and Design of Algorithms']
         self.skills = {
             'Languages': ['Python', 'MATLAB'],
-            'Software Engineering': ['Object-Orientation'],
+            'Software Engineering': ['Object-Orientation', 'Design Patterns'],
             'Database': ['SQL', 'MySQL', 'PostgreSQL', 'SQLite', 'NoSQL', 'MongoDB', 'Redis'],
             'DataViz': ['Microsoft Power BI'],
             'Tools': ['Git', 'GitHub'],
@@ -37,7 +37,6 @@ class ThiagoNeyE:
 
 if __name__ == '__main__':
     me = thiagoneye()
-    me.learning('Software Engineering', ['Design Patterns'])
     me.learning('Cloud Computing', ['Microsoft Azure'])
     me.learning('Distributed Computing', ['Apache Spark'])
 ```
