@@ -15,7 +15,7 @@ class ThiagoNeyE:
         self.interests = ['Data Science', 'Data Engineering', 'Analysis and Design of Algorithms']
         self.skills = {
             'Languages': ['Python', 'MATLAB'],
-            'Software Engineering': ['Object-Orientation', 'Design Patterns'],
+            'Software Engineering': ['Object-Orientation', 'SOLID', 'Design Patterns'],
             'Database': ['SQL', 'MySQL', 'PostgreSQL', 'SQLite', 'NoSQL', 'MongoDB', 'Redis'],
             'DataViz': ['Microsoft Power BI'],
             'Tools': ['Git', 'GitHub'],
