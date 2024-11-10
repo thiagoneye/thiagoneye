@@ -9,7 +9,7 @@ class ThiagoNeyE:
     """  
     def __init__(self) -> None:
         self.name = 'Thiago Rodrigues'
-        self.age = 25
+        self.age = 26
         self.email = 'thiagoneye@outlook.com'
         self.formation = ['Mechanical Engineering', 'Analysis and Systems Development']
         self.interests = ['Data Science', 'Data Engineering', 'Analysis and Design of Algorithms']
@@ -37,7 +37,7 @@ class ThiagoNeyE:
 
 if __name__ == '__main__':
     me = thiagoneye()
-    me.learning('Cloud Computing', ['Microsoft Azure'])
+    me.learning('Cloud Computing', ['AWS'])
     me.learning('Distributed Computing', ['Apache Spark'])
 ```
 
