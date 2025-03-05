@@ -11,7 +11,7 @@ class ThiagoNeyE:
         self.name = 'Thiago Rodrigues'
         self.age = 26
         self.email = 'thiagoneye@outlook.com'
-        self.formation = ['Mechanical Engineering', 'Analysis and Systems Development']
+        self.formation = ['Mechanical Engineering', 'Computer Science', 'Data Engineering']
         self.interests = ['Data Science', 'Data Engineering', 'Analysis and Design of Algorithms']
         self.skills = {
             'Languages': ['Python', 'MATLAB'],
@@ -37,8 +37,7 @@ class ThiagoNeyE:
 
 if __name__ == '__main__':
     me = thiagoneye()
-    me.learning('Cloud Computing', ['AWS'])
-    me.learning('Distributed Computing', ['Apache Spark'])
+    me.learning('Data Science', ['Deep Learning'])
 ```
 
 ## GitHub Status
