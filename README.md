@@ -39,7 +39,7 @@ if __name__ == '__main__':
     me = thiagoneye()
     me.learning('Data Science', ['Deep Learning'])
 ```
-
+<!---
 ## GitHub Status
 
 <p align= "center">
@@ -47,6 +47,7 @@ if __name__ == '__main__':
 </p>
 
 ---
+-->
 
 Credits: [Rafnix Guzmán](https://github.com/rafnixg/)
 
