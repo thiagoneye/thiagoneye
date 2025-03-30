@@ -11,7 +11,7 @@ class ThiagoNeyE:
         self.name = 'Thiago Rodrigues'
         self.age = 26
         self.email = 'thiagoneye@outlook.com'
-        self.formation = ['Mechanical Engineering', 'Computer Science', 'Data Engineering']
+        self.formation = ['MBachelor's Degree in Mechanical Engineering', 'Specialization in Data Engineering', 'Master's Degree in Computer Science']
         self.interests = ['Data Science', 'Data Engineering', 'Analysis and Design of Algorithms']
         self.skills = {
             'Languages': ['Python', 'MATLAB'],
