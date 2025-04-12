@@ -39,6 +39,7 @@ class ThiagoNeyE:
 if __name__ == '__main__':
     me = thiagoneye()
     me.learning('Data Science', ['Artificial intelligence', 'Machine Learning', 'Deep Learning'])
+    me.learning('Data Engineering', ['Airflow'])
 ```
 <!---
 ## GitHub Status
