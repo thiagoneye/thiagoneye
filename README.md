@@ -17,6 +17,7 @@ class ThiagoNeyE:
         self.skills = {
             'Languages': ['Python', 'MATLAB'],
             'Software Engineering': ['Object-Orientation', 'SOLID', 'Design Patterns'],
+            'Data Science', ['Machine Learning']
             'Database': ['SQL', 'MySQL', 'SQL Server', 'PostgreSQL', 'SQLite', 'NoSQL', 'MongoDB', 'Redis'],
             'DataViz': ['Microsoft Power BI'],
             'Tools': ['Git', 'GitHub'],
@@ -38,7 +39,7 @@ class ThiagoNeyE:
 
 if __name__ == '__main__':
     me = thiagoneye()
-    me.learning('Data Science', ['Artificial intelligence', 'Machine Learning', 'Deep Learning'])
+    me.learning('Data Science', ['Artificial intelligence', 'Deep Learning'])
     me.learning('Data Engineering', ['Airflow'])
 ```
 <!---
