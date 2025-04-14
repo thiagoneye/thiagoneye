@@ -9,7 +9,7 @@ class ThiagoNeyE:
     """  
     def __init__(self) -> None:
         self.name = 'Thiago Rodrigues'
-        self.age = 26
+        self.age = 27
         self.email = 'thiagoneye@outlook.com'
         self.formation = ['Bachelor in Mechanical Engineering', 'Specialization in Data Engineering',
             'Master in Computer Science']
