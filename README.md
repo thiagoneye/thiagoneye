@@ -17,7 +17,8 @@ class ThiagoNeyE:
         self.skills = {
             'Languages': ['Python', 'MATLAB'],
             'Software Engineering': ['Object-Orientation', 'SOLID', 'Design Patterns'],
-            'Data Science', ['Machine Learning']
+            'Data Science', ['Machine Learning'],
+            'Data Engineering', ['Apache Hop', 'Apache Beam']'
             'Database': ['SQL', 'MySQL', 'SQL Server', 'PostgreSQL', 'SQLite', 'NoSQL', 'MongoDB', 'Redis'],
             'DataViz': ['Microsoft Power BI'],
             'Tools': ['Git', 'GitHub'],
