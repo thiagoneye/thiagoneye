@@ -42,6 +42,7 @@ if __name__ == '__main__':
     me = thiagoneye()
     me.learning('Data Science', ['Artificial intelligence', 'Deep Learning'])
     me.learning('Data Engineering', ['Airflow'])
+    me.learning('Quality Assurance', ['Unittest'])
 ```
 <!---
 ## GitHub Status
