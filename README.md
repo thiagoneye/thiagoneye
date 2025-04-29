@@ -13,7 +13,7 @@ class ThiagoNeyE:
         self.email = 'thiagoneye@outlook.com'
         self.formation = ['Bachelor in Mechanical Engineering', 'Specialization in Data Engineering',
             'Master in Computer Science']
-        self.interests = ['Data Science', 'Data Engineering', 'Analysis and Design of Algorithms']
+        self.interests = ['Data Science', 'Data Engineering', 'Software Engineering']
         self.skills = {
             'Languages': ['Python', 'MATLAB'],
             'Software Engineering': ['Object-Orientation', 'SOLID', 'Design Patterns'],
