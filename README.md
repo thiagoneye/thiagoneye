@@ -17,6 +17,7 @@ class ThiagoNeyE:
         self.skills = {
             'Languages': ['Python', 'MATLAB'],
             'Software Engineering': ['Object-Orientation', 'SOLID', 'Design Patterns'],
+            'Quality Assurance', ['Unittest'],
             'Data Science', ['Machine Learning'],
             'Data Engineering', ['Apache Hop', 'Apache Beam'],
             'Database': ['SQL', 'MySQL', 'SQL Server', 'PostgreSQL', 'SQLite', 'NoSQL', 'MongoDB', 'Redis'],
@@ -42,7 +43,7 @@ if __name__ == '__main__':
     me = thiagoneye()
     me.learning('Data Science', ['Artificial intelligence', 'Deep Learning'])
     me.learning('Data Engineering', ['Airflow'])
-    me.learning('Quality Assurance', ['Unittest'])
+    me.learning('CI/CD', ['Docker'])
 ```
 <!---
 ## GitHub Status
