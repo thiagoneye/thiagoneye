@@ -15,7 +15,7 @@ class ThiagoNeyE:
             'Master in Computer Science']
         self.interests = ['Data Science', 'Data Engineering', 'Software Engineering']
         self.skills = {
-            'Languages': ['Python', 'MATLAB'],
+            'Languages': ['Python', 'MATLAB', 'Shell'],
             'Software Engineering': ['Object-Orientation', 'SOLID', 'Design Patterns'],
             'Quality Assurance', ['Unittest'],
             'Data Science', ['Machine Learning'],
