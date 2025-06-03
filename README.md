@@ -29,7 +29,7 @@ class ThiagoNeyE:
 
     def learning(self, category: str, new: list) -> None:
         """
-        Topics in studies.
+        Add new topics under a given skill category.
         """
         if category in self.skills.keys():
             self.skills[category] += new
