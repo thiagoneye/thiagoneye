@@ -5,7 +5,7 @@
 
 class ThiagoNeyE:
     """
-    Informations about @thiagoneye.
+    Information about @thiagoneye.
     """  
     def __init__(self) -> None:
         self.name = 'Thiago Rodrigues'
