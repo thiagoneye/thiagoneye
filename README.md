@@ -11,6 +11,7 @@ class ThiagoNeyE:
         self.name = 'Thiago Rodrigues'
         self.age = 27
         self.email = 'thiagoneye@outlook.com'
+        self.profile = 'https://thiagoneye.github.io/'
         self.formation = ['Bachelor in Mechanical Engineering', 'Specialization in Data Engineering',
             'Master in Computer Science']
         self.interests = ['Data Science', 'Data Engineering', 'Software Engineering']
