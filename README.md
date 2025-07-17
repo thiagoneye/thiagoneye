@@ -7,7 +7,7 @@ class ThiagoNeyE:
     """
     Information about @thiagoneye.
     """  
-    def __init__(self) -> None:
+    def __init__(self):
         self.name = 'Thiago Rodrigues'
         self.age = 27
         self.email = 'thiagoneye@outlook.com'
@@ -28,7 +28,7 @@ class ThiagoNeyE:
             'Others': ['Microsoft Office', 'Microsoft Power Apps', 'Microsoft Power Automate', 'LaTeX']
         }
 
-    def learning(self, category: str, new: list) -> None:
+    def learning(self, category: str, new: list):
         """
         Add new topics under a given skill category.
         """
