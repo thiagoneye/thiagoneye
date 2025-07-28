@@ -20,7 +20,7 @@ class ThiagoNeyE:
             'Software Engineering': ['Object-Orientation', 'SOLID', 'Design Patterns'],
             'Quality Assurance': ['Unittest'],
             'Data Science': ['Artificial intelligence', 'Machine Learning'],
-            'Data Engineering': ['Apache Hop', 'Apache Beam'],
+            'Data Engineering': ['Apache Hop', 'Apache Beam', 'Databricks', 'PySpark'],
             'Database': ['SQL', 'MySQL', 'SQL Server', 'PostgreSQL', 'SQLite', 'NoSQL', 'MongoDB', 'Redis'],
             'DataViz': ['Microsoft Power BI'],
             'Tools': ['Git', 'GitHub'],
