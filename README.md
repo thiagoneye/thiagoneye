@@ -19,7 +19,7 @@ class ThiagoNeyE:
             'Languages': ['Python', 'MATLAB', 'Shell'],
             'Software Engineering': ['Object-Orientation', 'SOLID', 'Design Patterns'],
             'Quality Assurance': ['Unittest'],
-            'Data Science': ['Artificial intelligence', 'Machine Learning'],
+            'Data Science': ['Artificial intelligence', 'Machine Learning', 'Deep Learning', 'Scikit-learn', 'TensorFlow', 'Keras'],
             'Data Engineering': ['Apache Hop', 'Apache Beam', 'Databricks', 'PySpark'],
             'Database': ['SQL', 'MySQL', 'SQL Server', 'PostgreSQL', 'SQLite', 'NoSQL', 'MongoDB', 'Redis'],
             'DataViz': ['Microsoft Power BI'],
@@ -42,7 +42,6 @@ class ThiagoNeyE:
 
 if __name__ == '__main__':
     me = ThiagoNeyE()
-    me.learning('Data Science', ['Deep Learning'])
     me.learning('Data Engineering', ['Airflow'])
     me.learning('CI/CD', ['Docker'])
 ```
