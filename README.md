@@ -22,8 +22,8 @@ class ThiagoNeyE:
             'Data Science': ['Artificial intelligence', 'Machine Learning', 'Deep Learning',
                 'Scikit-learn', 'TensorFlow', 'Keras'],
             'Data Engineering': ['Apache Hop', 'Apache Beam', 'Databricks', 'PySpark'],
-            'Database': ['SQL', 'MySQL', 'SQL Server', 'PostgreSQL', 'SQLite', 'NoSQL', 'MongoDB', 'Redis'],
-            'DataViz': ['Microsoft Power BI'],
+            'Database': ['SQL', 'PostgreSQL', 'MySQL', 'SQL Server', 'SQLite', 'NoSQL', 'MongoDB', 'Redis'],
+            'DataViz': ['Microsoft Power BI', 'Grafana'],
             'Tools': ['Git', 'GitHub'],
             'OS': ['Windows', 'Linux'],
             'Others': ['Microsoft Office', 'Microsoft Power Apps', 'Microsoft Power Automate', 'LaTeX']
