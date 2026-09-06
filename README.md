@@ -21,6 +21,7 @@ class ThiagoNeyE:
             'Quality Assurance': ['Unittest'],
             'Data Science': ['Artificial intelligence', 'Machine Learning', 'Deep Learning',
                 'Scikit-learn', 'TensorFlow', 'Keras'],
+            'Machine Learning Engineering': ['MLFlow'], 
             'Data Engineering': ['Apache Hop', 'Apache Beam', 'Databricks', 'PySpark'],
             'Database': ['SQL', 'PostgreSQL', 'MySQL', 'SQL Server', 'SQLite', 'NoSQL', 'MongoDB', 'Redis'],
             'DataViz': ['Microsoft Power BI', 'Grafana'],
