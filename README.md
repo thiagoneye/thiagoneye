@@ -19,7 +19,7 @@ class ThiagoNeyE:
             'Languages': ['Python', 'MATLAB', 'Bash'],
             'Software Engineering': ['Object-Orientation', 'SOLID', 'Design Patterns'],
             'Quality Assurance': ['Unittest'],
-            'Data Science': ['Artificial intelligence', 'Machine Learning', 'Deep Learning',
+            'Data Science': ['Artificial Intelligence', 'Machine Learning', 'Deep Learning',
                 'Scikit-learn', 'TensorFlow', 'Keras'],
             'Machine Learning Engineering': ['MLFlow'], 
             'Data Engineering': ['Apache Hop', 'Apache Beam', 'Databricks', 'PySpark'],
