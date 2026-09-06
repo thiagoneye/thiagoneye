@@ -9,11 +9,11 @@ class ThiagoNeyE:
     """  
     def __init__(self):
         self.name = 'Thiago Rodrigues'
-        self.age = 27
+        self.age = 28
         self.email = 'thiagoneye@outlook.com'
         self.profile = 'https://thiagoneye.github.io/'
         self.formation = ['Bachelor in Mechanical Engineering', 'Specialization in Data Engineering',
-            'Master in Computer Science']
+            'Specialization in Machine Learning Engineering', 'Master in Computer Science']
         self.interests = ['Data Science', 'Data Engineering', 'Software Engineering']
         self.skills = {
             'Languages': ['Python', 'MATLAB', 'Bash'],
@@ -43,8 +43,6 @@ class ThiagoNeyE:
 
 if __name__ == '__main__':
     me = ThiagoNeyE()
-    me.learning('Data Engineering', ['Airflow'])
-    me.learning('CI/CD', ['Docker'])
 ```
 <!---
 ## GitHub Status
